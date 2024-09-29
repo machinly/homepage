@@ -1,0 +1,4 @@
+baseURL = 'https://machinly.github.io/'
+languageCode = 'en-us'
+title = 'Machinly Homepage'
+theme = 'papermod'
